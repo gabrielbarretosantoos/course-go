@@ -1,1 +1,1 @@
-# curso-go
+# Course of golang =)
